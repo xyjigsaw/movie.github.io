@@ -1,4 +1,4 @@
 # movie.github.io
 
-[movie.omegaxyz.com](movie.omegaxyz.com)
+[movie.omegaxyz.com](http://movie.omegaxyz.com)
 
